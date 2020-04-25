@@ -1,4 +1,4 @@
-# Youtube Video Downloader
+# YouTube Video Downloader
 
 ## Import Packages
 ```python
@@ -26,7 +26,7 @@ def file_path():
     return download_path
 ```
 
-### Start Download Youtube Video
+### Start Download YouTube Video
 ```python
 def start():
     print("Your video will be saved to: {}".format(file_path()))
